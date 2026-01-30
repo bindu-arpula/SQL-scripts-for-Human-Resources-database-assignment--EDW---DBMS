@@ -1,0 +1,1 @@
+# SQL-scripts-for-Human-Resources-database-assignment--EDW---DBMS
